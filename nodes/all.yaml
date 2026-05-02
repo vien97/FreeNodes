@@ -7,7 +7,6 @@ proxies:
   server: 103.186.154.172
   type: ss
 - alpn:
-  - h2
   name: 🇿🇦ZA²_1|5.3MB/s|0%|GPT⁺|YT-CN|NF|D+|X|History|[广播|机房]
   password: dongtaiwang.com
   port: 59901
